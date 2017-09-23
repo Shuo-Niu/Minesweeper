@@ -1,5 +1,7 @@
 # Minesweeper
 
+Visual Studio project folder.
+
 Work on p5.js.
 
 Left-click to expose a square and mid-click to flag it as a suspected mine.
